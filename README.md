@@ -51,7 +51,7 @@ Stores raw and processed datasets derived from NFL player tracking data.
 - **Python** (pandas, numpy, Jupyter)
 - **React** for interactive visualizations
 - **JavaScript** for frontend rendering
-- NFL Next Gen Stats tracking data
+
 
 ---
 
