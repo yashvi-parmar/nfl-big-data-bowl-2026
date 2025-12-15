@@ -1,7 +1,7 @@
-# NFL Big Data Bowl 2026 – Receiver Separation Analysis
+# NFL Big Data Bowl 2026 – Wide Receiver Separation Analysis
 
 ## Project Overview
-**A data-driven approach to isolate how much separation a targeted receiver truly creates.**
+**A data-driven approach to isolate how much separation a targeted wide receiver truly creates.**
 
 The moment the quarterback releases the football, the play transforms into a race between the targeted receiver and the nearest defender. The receiver’s priority is to make the catch, and having separation at the moment the ball arrives can be the difference between a clean reception and an incompletion.
 
