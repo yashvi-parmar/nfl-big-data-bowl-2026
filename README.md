@@ -3,6 +3,12 @@
 ## Project Overview
 **A data-driven approach to isolate how much separation a targeted wide receiver truly creates.**
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=GBF8crDCH20">
+    <img src="https://img.youtube.com/vi/GBF8crDCH20/0.jpg" alt="NFL Analytics Metric Demo">
+  </a>
+</div>
+
 The moment the quarterback releases the football, the play transforms into a race between the targeted receiver and the nearest defender. The receiver’s priority is to make the catch, and having separation at the moment the ball arrives can be the difference between a clean reception and an incompletion.
 
 This project leverages NFL player tracking data to move beyond surface-level metrics and quantify *true* receiver separation. Our goal is to isolate how much separation is created by the receiver themselves, independent of scheme, coverage, and contextual factors.
