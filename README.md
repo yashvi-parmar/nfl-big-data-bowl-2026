@@ -30,17 +30,18 @@ Contains the **React application used to run interactive visualizations**.
 This app renders route trajectories, defender proximity, and separation metrics over time to intuitively explore how plays develop.
 
 ### `notebooks/`
-Contains **Jupyter notebooks** used for:
+The EDA **Jupyter notebook** is used for:
 - Data cleaning and preprocessing  
 - Feature engineering (e.g. defender distance, leverage, timing)  
-- Exploratory data analysis  
+- Exploratory data analysis
+
+The Model **Jupyter notebook** is used for: 
 - Prototyping separation metrics and models  
 
 These notebooks form the analytical backbone of the project and inform the visualization layer.
 
 ### `data/`
-Stores raw and processed datasets derived from NFL player tracking data.  
-(Large or raw files may be excluded from version control.)
+The parquet version of the CSV data is stored in data/. Please ensure to download this along with the notebooks for the analysis to run and work. 
 
 ---
 
