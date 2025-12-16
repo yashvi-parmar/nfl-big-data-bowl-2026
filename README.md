@@ -42,6 +42,7 @@ These notebooks form the analytical backbone of the project and inform the visua
 
 ### `data/`
 The parquet version of the CSV data is stored in data/. Please ensure to download this along with the notebooks for the analysis to run and work. 
+Player images were sourced from https://www.pro-football-reference.com/
 
 ---
 
