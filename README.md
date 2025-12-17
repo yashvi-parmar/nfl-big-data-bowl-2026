@@ -76,7 +76,7 @@ By integrating temporal tracking data with visual tools, this project aims to pr
 - Deploy visualizations as a public-facing web application  
 
 ---
-##References
+## References
 - Player images were sourced from https://www.pro-football-reference.com/
 - https://en.wikipedia.org/wiki/Elo_rating_system
 - https://eshashah.substack.com/p/will-afc-toronto-break-the-curse
