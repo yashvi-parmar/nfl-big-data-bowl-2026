@@ -80,6 +80,7 @@ By integrating temporal tracking data with visual tools, this project aims to pr
 - Player images were sourced from https://www.pro-football-reference.com/
 - https://en.wikipedia.org/wiki/Elo_rating_system
 - https://eshashah.substack.com/p/will-afc-toronto-break-the-curse
+- https://www.kaggle.com/code/hassaaninayatali/every-step-you-take-measuring-a-defender-s-moves/notebook
 
 ---
 
