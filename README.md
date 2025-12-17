@@ -85,6 +85,9 @@ Sound, Video and Images
 - https://www.youtube.com/watch?v=XsmuiDRKbDk
 - https://www.youtube.com/watch?v=F3YogLecG_Y
 - https://www.youtube.com/watch?v=4ApSVg20Iuw
+- https://youtu.be/ctBSAKDKr94
+- https://youtu.be/TA0o5SEueQY
+- https://youtu.be/3yFJb769c60
 - https://www.pro-football-reference.com/
 
 ---
