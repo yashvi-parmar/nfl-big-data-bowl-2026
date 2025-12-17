@@ -90,6 +90,8 @@ Sound, Video and Images
 - https://youtu.be/3yFJb769c60
 - https://www.pro-football-reference.com/
 
+Generative AI tools (Google Gemini and Anthropic Claude) were used to assist with the creation of visualization code and layout
+
 ---
 
 ## Authors 
