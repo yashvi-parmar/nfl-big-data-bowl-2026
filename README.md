@@ -82,6 +82,7 @@ By integrating temporal tracking data with visual tools, this project aims to pr
 - https://eshashah.substack.com/p/will-afc-toronto-break-the-curse
 - https://www.kaggle.com/code/hassaaninayatali/every-step-you-take-measuring-a-defender-s-moves/notebook
 - Film was clipped from these highlights: https://www.youtube.com/watch?v=F3YogLecG_Y, https://www.youtube.com/watch?v=4ApSVg20Iuw
+- https://www.youtube.com/watch?v=XsmuiDRKbDk
 
 ---
 
