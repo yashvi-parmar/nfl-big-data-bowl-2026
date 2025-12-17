@@ -42,7 +42,7 @@ These notebooks form the analytical backbone of the project and inform the visua
 
 ### `data/`
 The parquet version of the CSV data is stored in data/. Please ensure to download this along with the notebooks for the analysis to run and work. 
-Player images were sourced from https://www.pro-football-reference.com/
+
 
 ---
 
@@ -76,7 +76,14 @@ By integrating temporal tracking data with visual tools, this project aims to pr
 - Deploy visualizations as a public-facing web application  
 
 ---
+##References
+- Player images were sourced from https://www.pro-football-reference.com/
+- https://en.wikipedia.org/wiki/Elo_rating_system
+- https://eshashah.substack.com/p/will-afc-toronto-break-the-curse
+
+---
 
 ## Authors 
 Esha Shah, Bhairavi Thalayasingam, Yashvi Parmar
 NFL Big Data Bowl 2026 Project
+
